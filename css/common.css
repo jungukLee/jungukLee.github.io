@@ -181,7 +181,7 @@ nav > ul > li > a:hover{
       color: #000;
       height: 57px;
       line-height: 60px;
-      margin-left: 28px;
+      margin-left: 18px;
 }
 .footer_up li:first-child{
       position: relative;
@@ -197,8 +197,8 @@ nav > ul > li > a:hover{
       height: 17px;
       background: url('../img/footer_up_img.png') no-repeat;
       background-size: 32px;
-      top: 21px;
-      left: 65px;
+      top: 26px;
+      left: 70px;
 }
 footer{
       width: 100%;
@@ -256,7 +256,7 @@ footer{
 
 .footer_bottom_right li{
       float: left;
-      margin: 0 9px;
+      margin: 0 5px;
       line-height: 53px;
 }
 /* //foter */
