@@ -282,7 +282,6 @@
 .sns_img{
       float: left;
       padding-top: 75px;
-      margin-left: 15px;
 }
 .sns_img li{
       float: left;
@@ -290,7 +289,7 @@
       width: 100px;
       height: 100px;
       cursor: pointer;
-      margin: 0 35px;
+      margin: 0 30px;
 }
 
 .sns_1{background: url('../img/sns_img_wrap.png') no-repeat; background-position: 0 0;}
